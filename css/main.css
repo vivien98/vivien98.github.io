@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'cmr';
+    font-family:'Optima';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,12 +21,14 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'cmr';
+    font-family:'Optima';
 }
 p {
     font-size: 1.5em;
+    font-family:'Optima';
     line-height: 1.4em;
     color: #333;
+
 }
 footer {
     border-top: 1px solid #d5d5d5;
