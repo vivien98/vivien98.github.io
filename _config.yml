@@ -1,2 +1,12 @@
-name: Viraj Nadkarni, Personal Website
+name: Viraj Nadkarni
+tagline: Personal website for Viraj Nadkarni,B.Tech, IIT-B for documentation and displaying resume/CV 
+description: I'm a graduate from the Indian Institute of Technology-Bombay, where I got my B.Tech in Electrical Engineering (Hons.) and a Minor degree in Computer Science. During the course of my stay at IIT-B, I was part of a great team of undergrads who manufactured Autonomous Underwater Vehicles every year for the annual Robosub competition representing India. I worked on the fifth iteration of the vehicle called Matsya 5.0. I did my Bachelor's thesis and research projects exploring the design of recommendations systems and opinion dynamics under the able guidance of Prof. D. Manjunath and Prof. Sharayu Moharir. I was also fortunate enough to do an internship at the Aalborg University in Denmark under Prof. Jimmy Jessen Nielsen, where I spent my summer working as a visiting researcher in 2019. During my internship there, I worked on managing burst errors and energy consumption while using multiple wireless interfaces (WiFi and LTE) at the same time, using Reinforcement Learning and Markov chains. After my graduation, I joined Goldman-Sachs in Bengaluru as an analyst in its Model Risk Management division, which functions to validate financial models, that are used to do everything from projecting revenues to assessing risk, by providing stochastic guarantees, doing rigorous testing and designing better benchmark models using statistical and ML techniques. In particular, I work on the credit risk models.
+url: https://vivien98.github.io/
+social:
+  name: Viraj Nadkarni
+  links:
+    - https://www.linkedin.com/in/viraj-nadkarni-00345b199
+    - https://discord.gg/HA3jUD
+    - https://github.com/vivien98
+author: Viraj Nadkarni
 markdown: kramdown
